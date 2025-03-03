@@ -1,0 +1,39 @@
+GAME 1
+======
+GAME BEGIN
+Player Initial Hand: [10, 7] : 17
+Dealer Initial Hand: [6, 11] : 17
+Player Plays...
+Player Ending Hand: [10, 7] : 17
+Player did not bust! That's crazy!
+Dealer Plays...
+Dealer Ending Hand: [6, 11] : 17
+Dealer did not bust! That's crazy!
+Both Players were equally close to 21, no one wins!
+
+GAME 2
+======
+GAME BEGIN
+Player Initial Hand: [2, 9] : 11
+Dealer Initial Hand: [10, 11] : 21
+Player Plays...
+Player Ending Hand: [2, 9, 8] : 19
+Player did not bust! That's crazy!
+Dealer Plays...
+Dealer Ending Hand: [10, 11] : 21
+Dealer did not bust! That's crazy!
+Dealer was closer to 21, Dealer wins!
+
+GAME 3
+======
+Card count below the cutoff, SHUFFLING!
+GAME BEGIN
+Player Initial Hand: [4, 10] : 14
+Dealer Initial Hand: [4, 8] : 12
+Player Plays...
+Player Ending Hand: [4, 10, 7] : 21
+Player did not bust! That's crazy!
+Dealer Plays...
+Dealer Ending Hand: [4, 8, 10] : 22
+Dealer busted, Player Wins!
+
